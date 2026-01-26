@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-romantic-pink: #ff9ec1;
+  --color-lavender: #d7bdea;
+  --color-midnight: #0f172a;
+  --color-soft-gold: #f9e4b7;
+  --font-handwriting: "Dancing Script", cursive;
+}
+
+@layer base {
+  body {
+    @apply bg-midnight text-white overflow-x-hidden;
+  }
+}
+
+.font-handwriting {
+  font-family: var(--font-handwriting);
+}
