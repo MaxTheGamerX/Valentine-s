@@ -8,13 +8,13 @@ const letterLines = [
   "My dearest love,",
   "",
   "From the moment our paths crossed, I knew life would never be the same.",
-  "Every laugh, every late-night talk, every small fight we turned into growth…",
+  "Every laugh, every late night talk, every fight we have, turns into growth…",
   "You've become my safe place, my adventure, my home.",
-  "",
+  "I know I am not perfect but I will never stop to be better for you",
   "Thank you for choosing me, for seeing me, for loving me even on my messy days.",
   "You've made ordinary moments feel like magic.",
-  "",
-  "And I’d choose you again. Every single time.",
+  "Made me a better man and I hope I will keep pushing myself to be better",
+  "I will keep choosing you every single day my littel bunny 🐰.",
   "",
   "Forever yours,",
   "Tanish The Idiot 💕"
@@ -56,4 +56,5 @@ export default function LoveLetter({ onComplete }: Props) {
       {/* Optional soft background music trigger – add <audio> if you want */}
     </section>
   )
+
 }
