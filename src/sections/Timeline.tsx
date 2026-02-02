@@ -40,7 +40,7 @@ export default function Timeline({ onComplete }: Props) {
         <Milestone
           title="First Meet"
           desc="That day when I literally fell for you..."
-          img="/assets/first-meet.jpg"
+          img="/assets/first-meet.jpg"  //Place your image address after addign to the folder
           side="left"
         />
 

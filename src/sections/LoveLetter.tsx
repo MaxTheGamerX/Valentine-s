@@ -17,7 +17,7 @@ const letterLines = [
   "I will keep choosing you every single day my littel bunny 🐰.",
   "",
   "Forever yours,",
-  "Tanish The Idiot 💕"
+  "Your name 💕"
 ]
 
 export default function LoveLetter({ onComplete }: Props) {
@@ -53,7 +53,7 @@ export default function LoveLetter({ onComplete }: Props) {
         </motion.div>
       </motion.div>
 
-      {/* Optional soft background music trigger – add <audio> if you want */}
+      {/* Optional add a soft background music trigger – add <audio> if you want */}
     </section>
   )
 
