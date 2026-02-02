@@ -61,7 +61,7 @@ export default function Finale({ unlocked }: Props) {
         ) : (
           <>
             <h1 className="text-7xl md:text-9xl font-bold mb-8 text-[var(--color-soft-gold)]">
-              Happy Anniversary, my love! 💖
+              Happy Valentine's, my love! 💖
             </h1>
             <p className="text-4xl md:text-5xl font-handwriting mb-12">
               This is just the beginning…
